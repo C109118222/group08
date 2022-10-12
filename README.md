@@ -19,42 +19,31 @@ POS系統架設及應用
 零售業常見之POS系統基礎架設及實際應用
 ***
 
-### 甘特圖
+## 甘特圖
 ```mermaid
 gantt
     title 甘特圖
     
     section 研擬計畫
-           :a1, 2022-10-04, 1d
+    1       :a1, 2022-10-04, 1d
    
     section 任務分配
-           :a2, after a1  , 1d
+    1       :a2, after a1  , 1d
     
-    section 取得硬體
-    17      :a3, after a1 , 17d
+    section 前端排版設計
+    14      :a3, after a2 , 14d
     
-    section 程式開發
-    70      :a4, after a2  , 70d
+    section 後端建置串聯
+    14      :a4, after a3  , 14d
     
-    section 安裝硬體
-    10      :a5, after a3  , 10d
+    section 系統測試偵錯
+    30      :a5, after a2  , 30d
     
-    section 程式測試
-    30      :a6, after a4  , 30d
+    section 平台系統整合
+    7      :a6, after a4  , 7d
     
-    section 撰寫使用手冊
-    25      :a7, after a5  , 25d
-    
-    section 轉換檔案
-    20      :a8, after a5  , 20d
-    
-    section 系統測試
-    25      :a9, after a6  , 25d
-    
-    section 使用者訓練
-    20      :a10, after a7  , 20d
-    
-    section 使用者測試
-    25      :a11, after a9  , 25d
+    section 專案測試發布
+    14      :a7, after a6  , 14d
+   
 ```
 
