@@ -48,3 +48,6 @@
 |先決條件|使用者須先確認時間是否正確，並且系統確認該時段可以提供服務|
 |後置條件|預約服務結束，顧客可以離開|
 |假設|無|
+***
+## FIGMA
+[FIGMA畫面預覽](https://www.figma.com/file/hTzDxNMHH2lT409jsjLxJx/POS%E9%A3%B2%E6%96%99%E9%BB%9E%E9%A4%90%E6%A9%9F?node-id=0%3A1)
