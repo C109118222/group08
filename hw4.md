@@ -1,5 +1,5 @@
 # UML類別圖
-![image](https://github.com/C109118222/group08/blob/main/%E9%A1%9E%E5%88%A5%E5%9C%96v1.0.png)
+![image](https://github.com/C109118222/group08/blob/main/UML.jpg)
 ***
 # 循序圖與活動圖
 ![image](https://github.com/C109118222/group08/blob/main/%E5%BE%AA%E5%BA%8F%E5%9C%96(1).jpg)
